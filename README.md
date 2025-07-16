@@ -84,3 +84,25 @@ This project is licensed under the MIT License.
 ## Contact
 For questions or inquiries, feel free to reach out to me at
 [dev@alayadb.ai](mailto:dev@alayadb.ai)
+
+## Citation
+If you use ParaGraph for your research, please cite us:
+```bibtex
+@inproceedings{yang2025paragraph,
+   author = {Yang, Yuxiang and Chen, Shiwen and Deng, Yangshen and Tang, Bo},
+   title = {ParaGraph: Accelerating Graph Indexing through GPU-CPU Parallel Processing for Efficient Cross-modal ANNS},
+   year = {2025},
+   isbn = {9798400719400},
+   publisher = {Association for Computing Machinery},
+   address = {New York, NY, USA},
+   url = {https://doi.org/10.1145/3736227.3736237},
+   doi = {10.1145/3736227.3736237},
+   booktitle = {Proceedings of the 21st International Workshop on Data Management on New Hardware},
+   articleno = {7},
+   numpages = {10},
+   keywords = {Vector Database, GPU Acceleration, Index Construction},
+   location = {},
+   series = {DaMoN '25}
+}
+```
+
